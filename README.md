@@ -40,3 +40,12 @@ This project was developed using CodeSandbox.
 
 Now you are all set to use this project.
 
+# Usage
+This project has no usage other than to present future employers of my progresss as a Full-Stack Web Developer.
+
+# Credits
+Dr. Angela Yu
+Udemy
+
+![app](https://github.com/Raaghav-1824/Keeper-App/blob/main/Images/Keeper%20App.png?raw=true)
+
